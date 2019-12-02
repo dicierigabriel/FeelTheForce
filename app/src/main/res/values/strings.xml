@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Feel the Force</string>
+    <string name="title_activity_main">Feel the Force</string>
+    <string-array name="nome_jedis">
+    </string-array>
+</resources>
